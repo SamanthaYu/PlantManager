@@ -1,4 +1,4 @@
-# Plant Manager (Can't Be Beet)
+# Automated Plant Watering System (Can't Be Beet)
 Owen Campbell; Dolapo Toki; Samantha Yu
 
 ## BeagleBone
